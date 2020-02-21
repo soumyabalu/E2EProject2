@@ -62,6 +62,8 @@ public class StepDefinition extends Base {
 	    // Write code here that turns the phrase above into concrete actions
 		 Bookingpage bp = new Bookingpage(driver);
 		  	bp.nextpage().click();
+		  	System.out.println("the page is succesfully navigated");
+		  	
 	}
 
 
