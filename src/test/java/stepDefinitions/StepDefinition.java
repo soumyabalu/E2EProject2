@@ -63,6 +63,7 @@ public class StepDefinition extends Base {
 		 Bookingpage bp = new Bookingpage(driver);
 		  	bp.nextpage().click();
 		  	System.out.println("the page is succesfully navigated");
+		  	System.out.println("the work is done");
 		  	
 	}
 
