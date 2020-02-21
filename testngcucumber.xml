@@ -6,7 +6,7 @@
     <class name="cucumberOptions.TestRunnerTest"/>
         
     </classes>
-    </test>
+    </test>   
     
      <!-- Test -->
 </suite> <!-- Suite -->
